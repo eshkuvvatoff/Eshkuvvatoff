@@ -7,7 +7,7 @@
 </div> -->
 <div align="center">
 
-<h1 align="center">Hello </a> , I'm Asliddin &nbsp;<a href="https://avipatilweb.ml/"><img src="https://github.com/KenanGain/KenanGain/blob/main/icons/wave.gif" width="48"></h1>
+<h1 align="center">Hello</a>, I'm Asliddin &nbsp;<a href="https://avipatilweb.ml/"><img src="https://github.com/KenanGain/KenanGain/blob/main/icons/wave.gif" width="48"></h1>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=4FC3F7&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Eshkhuvvatofff;Frontend+Developer;React+Enthusiast;Let's+build+something+cool!+🚀)
 
@@ -51,7 +51,7 @@ Frontend developer | Gamer | Bug Collector
 <div align="center">
 
   <br>
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Eshkhvvatofff&custom_title=Eshkhuvvatofff's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Eshkuvvatofff&custom_title=Eshkhuvvatofff's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
 
 <br>
 
@@ -59,7 +59,7 @@ Frontend developer | Gamer | Bug Collector
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eshkhuvvatofff&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eshkuvvatofff&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
     </td>
     <td>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Eshkhuvvatofff&theme=highcontrast&hide_border=true" alt="Repos Per Language">
